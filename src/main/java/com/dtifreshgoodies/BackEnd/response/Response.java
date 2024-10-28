@@ -1,4 +1,4 @@
-package com.example.FreshGoodiesBackEnd.response;
+package com.dtifreshgoodies.BackEnd.response;
 
 import lombok.Getter;
 import lombok.Setter;

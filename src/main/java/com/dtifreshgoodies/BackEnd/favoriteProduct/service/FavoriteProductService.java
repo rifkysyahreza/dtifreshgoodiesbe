@@ -1,8 +1,8 @@
-package com.example.FreshGoodiesBackEnd.favoriteProduct.service;
+package com.dtifreshgoodies.BackEnd.favoriteProduct.service;
 
-import com.example.FreshGoodiesBackEnd.cart.entity.CartItem;
-import com.example.FreshGoodiesBackEnd.favoriteProduct.entity.FavoriteProduct;
-import com.example.FreshGoodiesBackEnd.product.service.ProductService;
+import com.dtifreshgoodies.BackEnd.cart.entity.CartItem;
+import com.dtifreshgoodies.BackEnd.favoriteProduct.entity.FavoriteProduct;
+import com.dtifreshgoodies.BackEnd.product.service.ProductService;
 import org.springframework.stereotype.Service;
 
 import java.util.ArrayList;

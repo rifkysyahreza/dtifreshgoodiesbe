@@ -1,4 +1,4 @@
-package com.example.FreshGoodiesBackEnd.product.entity;
+package com.dtifreshgoodies.BackEnd.product.entity;
 
 import lombok.Getter;
 import lombok.Setter;

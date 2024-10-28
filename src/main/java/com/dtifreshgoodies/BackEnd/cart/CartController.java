@@ -1,10 +1,10 @@
-package com.example.FreshGoodiesBackEnd.cart;
+package com.dtifreshgoodies.BackEnd.cart;
 
-import com.example.FreshGoodiesBackEnd.cart.entity.CartItem;
-import com.example.FreshGoodiesBackEnd.cart.service.CartService;
-import com.example.FreshGoodiesBackEnd.product.entity.Product;
-import com.example.FreshGoodiesBackEnd.product.service.ProductService;
-import com.example.FreshGoodiesBackEnd.response.Response;
+import com.dtifreshgoodies.BackEnd.cart.entity.CartItem;
+import com.dtifreshgoodies.BackEnd.cart.service.CartService;
+import com.dtifreshgoodies.BackEnd.product.entity.Product;
+import com.dtifreshgoodies.BackEnd.product.service.ProductService;
+import com.dtifreshgoodies.BackEnd.response.Response;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

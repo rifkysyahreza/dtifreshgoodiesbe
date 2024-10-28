@@ -1,7 +1,7 @@
-package com.example.FreshGoodiesBackEnd.cart.service;
+package com.dtifreshgoodies.BackEnd.cart.service;
 
-import com.example.FreshGoodiesBackEnd.cart.entity.CartItem;
-import com.example.FreshGoodiesBackEnd.product.service.ProductService;
+import com.dtifreshgoodies.BackEnd.cart.entity.CartItem;
+import com.dtifreshgoodies.BackEnd.product.service.ProductService;
 import org.springframework.stereotype.Service;
 
 import java.util.*;

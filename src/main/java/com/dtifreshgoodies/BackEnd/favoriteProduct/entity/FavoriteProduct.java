@@ -1,6 +1,6 @@
-package com.example.FreshGoodiesBackEnd.favoriteProduct.entity;
+package com.dtifreshgoodies.BackEnd.favoriteProduct.entity;
 
-import com.example.FreshGoodiesBackEnd.product.entity.Product;
+import com.dtifreshgoodies.BackEnd.product.entity.Product;
 import lombok.Getter;
 import lombok.Setter;
 

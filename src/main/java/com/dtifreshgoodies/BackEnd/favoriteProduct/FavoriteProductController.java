@@ -1,10 +1,10 @@
-package com.example.FreshGoodiesBackEnd.favoriteProduct;
+package com.dtifreshgoodies.BackEnd.favoriteProduct;
 
-import com.example.FreshGoodiesBackEnd.favoriteProduct.entity.FavoriteProduct;
-import com.example.FreshGoodiesBackEnd.favoriteProduct.service.FavoriteProductService;
-import com.example.FreshGoodiesBackEnd.product.entity.Product;
-import com.example.FreshGoodiesBackEnd.product.service.ProductService;
-import com.example.FreshGoodiesBackEnd.response.Response;
+import com.dtifreshgoodies.BackEnd.favoriteProduct.entity.FavoriteProduct;
+import com.dtifreshgoodies.BackEnd.favoriteProduct.service.FavoriteProductService;
+import com.dtifreshgoodies.BackEnd.product.entity.Product;
+import com.dtifreshgoodies.BackEnd.product.service.ProductService;
+import com.dtifreshgoodies.BackEnd.response.Response;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
